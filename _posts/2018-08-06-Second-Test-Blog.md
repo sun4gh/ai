@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test blog
+title: "Test Blog"
 date: 2018-08-08
 ---
 
